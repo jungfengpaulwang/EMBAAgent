@@ -17,3 +17,14 @@ E:\TFServer2013\ischoolteam\ischool_EMBA\Agent\obj\Debug\Agent.Viewer.SelectFiel
 E:\TFServer2013\ischoolteam\ischool_EMBA\Agent\obj\Debug\Agent.csproj.GenerateResource.Cache
 E:\TFServer2013\ischoolteam\ischool_EMBA\Agent\obj\Debug\Agent.dll
 E:\TFServer2013\ischoolteam\ischool_EMBA\Agent\obj\Debug\Agent.pdb
+E:\github\NTU_EMBA\Agent\obj\Debug\Agent.csprojResolveAssemblyReference.cache
+E:\github\NTU_EMBA\Agent\obj\Debug\Agent.Viewer.DoWork.resources
+E:\github\NTU_EMBA\Agent\obj\Debug\Agent.Viewer.SelectField.resources
+E:\github\NTU_EMBA\Agent\obj\Debug\Agent.csproj.GenerateResource.Cache
+E:\github\NTU_EMBA\Agent\obj\Debug\Agent.dll
+E:\github\NTU_EMBA\Agent\obj\Debug\Agent.pdb
+E:\github\NTU_EMBA\Agent\bin\Debug\Agent.dll
+E:\github\NTU_EMBA\Agent\bin\Debug\Agent.pdb
+E:\github\NTU_EMBA\Agent\bin\Debug\DevComponents.DotNetBar2.xml
+E:\github\NTU_EMBA\Agent\bin\Debug\FISCA.Presentation.pdb
+E:\github\NTU_EMBA\Agent\bin\Debug\FISCA.Presentation.xml

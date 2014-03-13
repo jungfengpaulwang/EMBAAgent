@@ -6,8 +6,6 @@ using System.IO;
 using System.Linq;
 using System.Windows.Forms;
 using FISCA.Presentation.Controls;
-using FISCA.Data;
-using FISCA.UDT;
 
 namespace Agent.Viewer
 {
